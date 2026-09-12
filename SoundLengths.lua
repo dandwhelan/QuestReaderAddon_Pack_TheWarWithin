@@ -4924,6 +4924,7 @@ QuestReaderSoundLengths_Pack_TheWarWithin = {
     ["92030_description.ogg"] = 11.58,
     ["92031_completion.ogg"] = 7.86,
     ["92031_description.ogg"] = 15.37,
+    ["92078_description.ogg"] = 24.08,
     ["92405_description.wav"] = 9.09,
     ["92430_completion.ogg"] = 2.98,
     ["92430_description.ogg"] = 5.13,
