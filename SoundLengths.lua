@@ -1,4 +1,4 @@
-QuestReaderSoundLengths_Pack_TheWarWithin = {
+SpeakStoneSoundLengths_Pack_TheWarWithin = {
     ["36719_description.ogg"] = 16.98,
     ["40801_description.ogg"] = 23.68,
     ["41962_description.ogg"] = 15.08,
